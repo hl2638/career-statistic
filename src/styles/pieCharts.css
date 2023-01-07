@@ -1,0 +1,11 @@
+.pie-charts-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: space-between;
+  align-self: center;
+  text-align: start;
+  width: 760px;
+}
+
+/*# sourceMappingURL=pieCharts.css.map */
